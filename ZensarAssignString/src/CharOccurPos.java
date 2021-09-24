@@ -15,7 +15,7 @@ public class CharOccurPos {
            {
         	   if(str.charAt(i)==ch)
         	   {
-        		   System.out.println("The character occurrance of " ch+ "at");
+        		   System.out.println("The character occurrance of " +ch+ "at");
         		   break;
         	   }
            }
